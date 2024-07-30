@@ -76,6 +76,7 @@
 
 *   Следуем рекомендациям по проектированию интерфейсов от 1С: [https://its.1c.ru/db/v8std/browse/13/-1/7](https://its.1c.ru/db/v8std/browse/13/-1/7)
 *   Особенно обращаем внимание на рекомендации по компоновке форм: [https://its.1c.ru/db/v8std#content:722:hdoc](https://its.1c.ru/db/v8std#content:722:hdoc)
+*   Следуем рекомендациям использования конкретных видов элементов на форме: [https://github.com/Oxotka/1CDesignGuide](https://github.com/Oxotka/1CDesignGuide)
 
 ## Изменение командного интерфейса (разделов)
 
